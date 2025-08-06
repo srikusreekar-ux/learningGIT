@@ -1,2 +1,0 @@
-# learningGIT
-learningGIT guys
